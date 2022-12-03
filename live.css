@@ -1,0 +1,13 @@
+/* global styles */
+* {
+	margin: 0; /* no border to the viewable frame */
+  padding: 0; /* no padding to the viewable frame */
+	box-sizing: border-box;
+  /* border: 1px solid rgb(109, 7, 24); */
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: orange;
+}
